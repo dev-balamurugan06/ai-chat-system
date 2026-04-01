@@ -1,0 +1,25 @@
+[
+{"question":"hi","answer":"Hello! How can I help you?"},
+{"question":"hello","answer":"Hello! Nice to meet you."},
+
+{"question":"capital of india","answer":"The capital of India is New Delhi."},
+{"question":"largest planet","answer":"Jupiter is the largest planet in our solar system."},
+{"question":"national animal of india","answer":"The tiger is the national animal of India."},
+
+{"question":"python","answer":"Python is a high-level programming language used in AI, data science, and web development."},
+{"question":"react","answer":"React is a JavaScript library used to build modern user interfaces."},
+{"question":"flask","answer":"Flask is a lightweight Python web framework used for building APIs and web applications."},
+
+{"question":"2+2","answer":"2 + 2 equals 4."},
+{"question":"square root of 16","answer":"The square root of 16 is 4."},
+{"question":"pi value","answer":"The value of pi is approximately 3.14159."},
+
+{"question":"photosynthesis","answer":"Photosynthesis is the process by which plants make food using sunlight."},
+{"question":"gravity","answer":"Gravity is the force that attracts objects toward the Earth."},
+{"question":"speed of light","answer":"The speed of light is approximately 299,792 kilometers per second."},
+
+{"question":"education","answer":"Education is the process of gaining knowledge, skills, values, and habits."},
+{"question":"machine learning","answer":"Machine learning is a branch of AI that allows computers to learn from data."},
+{"question":"data science","answer":"Data science is the field of extracting insights from data using statistics and programming."}
+
+]
